@@ -1,5 +1,5 @@
 ---
 layout: product_test1
-title: Artimis Ltd
+title: ARTIMIS GLOBAL PTE LTD
 permalink: /product_test1/
 ---
