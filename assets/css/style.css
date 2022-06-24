@@ -1364,7 +1364,7 @@ section {
 }
 
 #footer .footer-top .footer-info h3 {
-  font-size: 24px;
+  font-size: 20px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
@@ -1589,3 +1589,26 @@ section {
   padding: 10px;
   flex: 50%;
 } */
+
+.font-weight-bold{
+  font-weight: 700!important;
+}
+
+.product-section tr th,
+.product-section tr td
+{
+  font-size: 13px;
+  padding: 5px;
+}
+.product-section p
+{
+  font-size: 13px;
+}
+.icon-box .icon img{
+  max-width: 160px;
+  height: 160px;
+}
+.product-card .icon-box .card {
+  height: 100%;
+}
+
