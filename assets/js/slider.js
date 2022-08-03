@@ -10,12 +10,12 @@
     .each(function (index) {
       index === 0
         ? heroCarouselIndicators.append(
-            "<li data-target='#heroCarousel' data-slide-to='" +
+            "<li data-bs-target='#heroCarousel' data-bs-slide-to='" +
               index +
               "' class='active'></li>"
           )
         : heroCarouselIndicators.append(
-            "<li data-target='#heroCarousel' data-slide-to='" +
+            "<li data-bs-target='#heroCarousel' data-bs-slide-to='" +
               index +
               "'></li>"
           );
